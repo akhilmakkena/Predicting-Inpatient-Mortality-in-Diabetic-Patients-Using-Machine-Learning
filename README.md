@@ -1,1 +1,3 @@
-# Predicting-Inpatient-Mortality-in-Diabetic-Patients-Using-Machine-Learning
+This project  addresses this need by developing and testing a high-performance machine learning model to predict a surrogate measure of the quality of diabetes care that is given in a hospital. To set a background, the research is based on the results of the UK National Diabetes Inpatient Audit (NaDIA) of 2018 that involves remote blood glucose monitoring as a proxy outcome of the high-quality care environment implemented in a hospital. The proxy theoretically correlates lower inpatient mortality risk and allows exploring the institutional features, which prompt the implementation of advanced care technologies.
+
+Here the dataset is provided : https://www.data.gov.uk/dataset/20278c8b-8fb8-4827-90e4-65d45244968b/national-diabetes-inpatient-audit-nadia-2018
