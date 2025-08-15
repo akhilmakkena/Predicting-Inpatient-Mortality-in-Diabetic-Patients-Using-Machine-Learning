@@ -1,0 +1,186 @@
+Hospital_Name,Hospital_ID,Audit_Year,Hospital beds,Diabetes patients (BA 2017),DISN hours,DSN hours,Specialist diabetes dietitian hours,Non-specialist dietitian hours,Podiatrist hours,Pharmacist hours,Consultant hours,7 day DISN cover?,7 day diabetes physician access?,Regular diabetes mortality and morbidity meetings?,Regular ward nurse diabetes training?,Systems/tools to increase foot exams?,Established MDFT?,Using Electronic Patient Record?,Using electronic prescribing?,Using remote blood glucose monitoring?,Successfully applied for MDFT Transformation Funding?,Successfully applied for DISN Transformation Funding?,Used MDFT Transformation Funding to fund additional posts?,Used DISN Transformation Funding to fund additional posts?
+Addenbrooke's Hospital,RGT01,2018,864,131,1.15,0,0.37,0,0.29,0.29,0.52,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Airedale General Hospital,RCF22,2018,304,52,1.44,0.72,0.72,0,0.07,0,0.14,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Alexandra Hospital,RWP01,2018,284,47,1.12,0,0,0.08,0.08,0,0.16,No,No,Yes,Yes,No,Yes,Partially,No,Partially,Yes,No,Yes: Some / all in post,Not applicable
+Ashford and St Peter's Hospitals NHS Foundation Trust,RTK,2018,414,69,0.76,0,0,0,0.03,0,0.05,No,No,Yes,Yes,No,Yes,Yes,No,Partially,No,No,Not applicable,Not applicable
+Barnsley Hospital,RFFAA,2018,344,74,0.38,0,0.05,0,0.08,0,0.3,No,No,Yes,No,Yes,Yes,Partially,No,Partially,No,No,Not applicable,Not applicable
+Basildon University Hospital,RDDH0,2018,582,124,0.67,0,0,0,0.06,0,0.24,No,No,Yes,Yes,No,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Basingstoke and North Hampshire Hospital,RN506,2018,472,72,1.35,0,0,0,0,0,0.52,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Bassetlaw Hospital,RP5BA,2018,130,24,1.56,0,0,0,0,0,0.83,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Not applicable,Not applicable
+Bedford Hospital,RC112,2018,355,89,0.42,0,0,0.17,0.11,0.09,0.18,No,No,Yes,Yes,Yes,Yes,Partially,Partially,No,Yes,No,Yes: Some / all in post,Not applicable
+Blackpool Victoria Hospital,RXL01,2018,608,129,1.1,0.8,0,0,0.14,0,0.07,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Bradford Teaching Hospitals NHS Foundation Trust,RAE,2018,568,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Bronglais General Hospital,7A2AJ,2018,129,21,0,0.89,0,0,0.14,0,1.07,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Broomfield Hospital,RQ8L0,2018,501,60,1,0.31,0,0,0.06,0,0.13,No,No,Yes,Yes,No,No,Yes,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Buckinghamshire Healthcare NHS Trust,RXQ,2018,515,94,0,1,0,0.12,0.8,0,0.04,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Calderdale Royal Hospital,RWY02,2018, N/A ,36,3.13,1.04,0,0,0.1,0,0.52,Yes,No,No,Yes,Not known,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Chelsea and Westminster Hospital,RQM01,2018,291,47,0,0.8,0.08,0.8,0.08,0.24,0.04,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partially,Yes,No,No: Plan to,Not applicable
+Cheltenham General Hospital,RTE01,2018,320,61,0,0.31,0.01,0,0.15,0,0.06,No,No,Yes,Yes,Yes,Yes,Partially,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Chesterfield Royal Hospital,RFSDA,2018,422,81,0.83,0,0,0,0,0,0.01,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No: Do not plan to,Not applicable
+Chorley and South Ribble Hospital,RXN01,2018,214,33,0,0.57,0,0,0.23,0,0.11,No,No,No,Yes,No,Yes,Partially,No,Partially,No,No,Not applicable,Not applicable
+Churchill Hospital,RTH02,2018,115,24,1.56,0,0,0,0.94,0.05,0.14,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+City Hospital,RXK02,2018,213,56,0.67,2.31,0,0,0.07,0.07,3.08,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Colchester General Hospital and Essex County Hospital,RDE,2018,511,89,0.84,0,0,0,0.25,0,0.11,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Conquest Hospital,RXC01,2018,316,47,0.64,0,0.4,0.08,0.08,0.08,0.08,No,No,No,Yes,No,No,Partially,Partially,Yes,No,No,Not applicable,Not applicable
+Countess of Chester Hospital,RJR05,2018,454,83,1.36,0,0,0,0,0.14,0.09,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Croydon University Hospital,RJ611,2018,354,71,0,2.11,0.32,0,0,0,1.85,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Not applicable,Yes: Some / all in post
+Cumberland Infirmary,RNLAY,2018,311,59,0.41,0,0,0,0.06,0,0.1,No,No,No,No,Yes,Yes,Partially,No,Partially,Yes,No,Yes: Some / all in post,Not applicable
+Darent Valley Hospital,RN707,2018,510,55,0.61,1.09,0.06,0,0.34,0.14,0.35,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Darlington Memorial Hospital,RXPDA,2018,352,52,0.72,0.72,0,0.14,0.14,0.72,0.72,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,No,Yes,Not applicable,Yes: Some / all in post
+Derriford Hospital,RK950,2018,806,121,0.96,0,0,0,0.31,0,0.06,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes: Not in post,Not applicable
+"Diana, Princess of Wales Hospital",RJL30,2018,316,60,0.31,0,0,0,0.13,0,0.06,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Doncaster Royal Infirmary,RP5DR,2018,500,119,1.1,0,0,0,0.13,0,0.27,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Dorset County Hospital,RBD01,2018,270,40,0,0.47,0,0,0,0,0.19,No,No,Yes,Yes,Yes,Yes,Partially,Partially,Yes,No,No,Not applicable,Not applicable
+Ealing Hospital,R1K04,2018,270,80,0.12,0.12,0,0.09,0.14,0,0.14,No,No,Yes,Yes,Yes,Yes,Partially,No,No,Yes,No,Yes: Some / all in post,Not applicable
+East Surrey Hospital,RTP04,2018,549,95,0.39,0,0,0,0.02,0,0.09,No,No,Yes,Yes,Yes,Yes,Partially,No,Partially,No,No,Not applicable,Not applicable
+Eastbourne District General Hospital,RXC02,2018,302,44,0.85,0.85,0.17,0.51,0.34,0.85,0.85,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Epsom Hospital,RVR50,2018,216,36,1.04,0.52,0,0.52,0.05,0,0.05,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Fairfield General Hospital,RW601,2018,206,41,0.91,0,0,0,0.37,0,0.12,No,No,Yes,Yes,Yes,Yes,Partially,Yes,No,No,No,Not applicable,Not applicable
+Friarage Hospital Site,RTR45,2018,87,21,0,0.89,0.54,0,0.18,0,1.07,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Frimley Park Hospital,RDU01,2018,750,129,0.58,0.12,0.12,0,0.2,0,0.06,No,No,Yes,Yes,Yes,Yes,Partially,Partially,No,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Frimley Sites - Including Wexham Park Hospital and Heatherwood Hospital,RDU1,2018,551,97,1.16,0,0,0,0.77,0,0.19,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Furness General Hospital,RTXBU,2018,281,40,0,0.94,0,0,0.94,0,0.94,No,No,Yes,No,Yes,No,Yes,Yes,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+George Eliot Hospital,RLT01,2018,275,39,0,0.96,0,2.88,0,0,0.77,No,No,Yes,Yes,No,No,Partially,Partially,No,No,No,Not applicable,Not applicable
+Glangwili General Hospital,7A2AG,2018,265,68,0.55,1.1,0,0,0.17,0,0.17,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Glenfield Hospital,RWEAE,2018, N/A ,91,0.41,0,0,0,0.04,0,0.08,No,No,Yes,Yes,No,Yes,Partially,No,No,Not applicable,Not applicable,Not applicable,Not applicable
+Gloucestershire Royal Hospital,RTE03,2018,520,74,0,0.41,0.01,0,0.13,0,0.09,No,No,Yes,Yes,Yes,Yes,Partially,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Good Hope Hospital,RRK98,2018,473,88,0.81,0,0,0,0.04,0,0.43,No,No,No,Yes,Yes,Yes,Yes,Yes,Partially,No,No,Not applicable,Not applicable
+"Great Western Hospital, The",RN325,2018,459,81,0.74,0,0,0,0.14,0,0.19,No,No,Yes,Yes,Yes,Yes,Partially,Yes,No,No,No,Not applicable,Not applicable
+Guy's and St Thomas' NHS Foundation Trust,RJ1,2018,732,147,0.26,0.51,0.15,0,0.46,0.03,0.18,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Harrogate District Hospital,RCD01,2018,267,33,2.05,0,0,0,0.23,0,0.03,No,No,No,Yes,Yes,Yes,Partially,Yes,Yes,No,No,Not applicable,Not applicable
+Heartlands Hospital,RRK97,2018,692,112,1,1.34,0,0,0,0,0.03,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,No,Not applicable,Not applicable
+Hereford County Hospital,RLQ01,2018,228,49,0,0.46,0,0,0.08,0,0.31,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Not applicable,Not applicable
+"Hillingdon Hospitals NHS Foundation Trust, The",RAS,2018,300,86,0.74,0.78,0.04,0.09,0.48,0,0.44,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Hinchingbrooke Hospital,RGN90,2018,199,33,0.91,2.95,1.14,0,1.14,0,2.27,No,No,Yes,Yes,Yes,Yes,Partially,Partially,No,Yes,No,Yes: Some / all in post,Not applicable
+Homerton University Hospital,RQXM1,2018,244,49,1.53,0.61,0.15,0.15,0.77,0,0.23,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Not applicable,Not applicable
+Horton General Hospital,RTH05,2018,82,22,0.68,0,0,0,0.34,0.02,0.09,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Hospital of St Cross,RKB03,2018,85,15,0,0.5,0,0,0,0,0,No,Yes,Yes,Yes,Not known,Yes,Partially,Partially,No,Not applicable,Not applicable,Not applicable,Not applicable
+Huddersfield Royal Infirmary,RWY01,2018,370,52,4.33,0,0,0,1.44,0,0.36,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Hull and East Yorkshire Hospitals NHS Trust,RWA,2018,883,169,0.67,0,0,0.11,0.04,0.22,0.18,No,Yes,Yes,Yes,No,Yes,Yes,Partially,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Imperial College Healthcare NHS Trust,RYJ,2018,"1,015",208,0,0.27,0,0,0.05,0,0.05,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partially,Yes,No,Yes: Some / all in post,Not applicable
+"Ipswich Hospital, The",RDE03,2018,550,83,1.23,0,0,0,0.09,0,0.54,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Not applicable,Not applicable
+James Paget University Hospital,RGP75,2018,380,73,1.09,0,0,0,0,0,0.34,No,No,Yes,Yes,Yes,No,Partially,Partially,Yes,No,No,Not applicable,Not applicable
+John Radcliffe Hospital,RTH08,2018,424,103,2.22,0,0,0,0.36,0.02,0.11,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Kent and Canterbury Hospital,RVVKC,2018,209,56,0.67,0,0,0,0,0,0,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Not applicable,Not applicable
+Kettering General Hospital,RNQ51,2018,474,83,0.3,0,0,0,0.09,0.05,0.45,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Kidderminster Hospital,RWP31,2018,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+King George Hospital,RF4DG,2018,281,50,0,0.75,0,0.15,0.08,0.3,0.38,No,No,Yes,Yes,No,No,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+King's College Hospital (Denmark Hill),RJZ01,2018,900,157,0.48,0.24,0,0,0.36,0,0.24,No,Yes,Yes,Yes,Not known,Yes,Yes,Yes,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+King's Mill Hospital,RK5BC,2018,440,82,0,0.46,0,0,0.05,0,0.11,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Kingston Hospital,RAX01,2018,440,49,0.77,0.23,0.08,0,0.38,0,0.15,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Leeds Teaching Hospitals NHS Trust,RR8,2018,"1,539",241,0,0.62,0.31,0,0.06,0,0.32,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Leicester General Hospital,RWEAK,2018, N/A ,64,0.29,0,0,0,0.06,0,0.18,No,No,Yes,Yes,No,Yes,Partially,Partially,No,Not applicable,Not applicable,Not applicable,Not applicable
+Leicester Royal Infirmary,RWEAA,2018, N/A ,118,0.79,0,0,0,0.32,0.13,0.19,Yes,No,Yes,Yes,No,Yes,Partially,Partially,No,Not applicable,Yes,Not applicable,Yes: Some / all in post
+Leighton Hospital,RBT20,2018,439,45,1.1,0,0.08,0.17,0.24,0.08,0.2,No,No,Yes,Yes,Yes,Yes,No,No,Partially,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Lister Hospital,RWH01,2018,534,96,1.25,0.04,0.53,0.45,0.23,0.12,1.37,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Luton and Dunstable Hospital,RC971,2018,558,115,1.47,0,0,0,0.18,0,0.28,Yes,No,Yes,Yes,Yes,Yes,Partially,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+"Maidstone Hospital, The",RWF03,2018,249,45,1.5,0,0,0,0.03,0,0.17,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Not applicable,Not applicable
+"Manchester Site - Including Manchester Royal Eye Hospital, Manchester Royal Infirmary and St Mary's Hospital",R0A,2018,713,202,0.36,1.41,0.26,0,0.74,0.11,1.03,No,No,Yes,No,Yes,Yes,Partially,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Medway Maritime Hospital,RPA02,2018,525,92,0.82,0,0,0,0.04,0,0.41,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Morriston Hospital,7A3C7,2018,664,92,0.65,0,0,0.02,0.04,0,0.08,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Moseley Hall Hospital,RYW23,2018, N/A ,23,1.3,0.16,0,0,0.16,0,0.16,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Not applicable,Not applicable
+Musgrove Park Hospital,RBA11,2018,510,69,0.54,0.27,0.05,0.05,0.33,0,0.16,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Neath Port Talbot Hospital,7A3CJ,2018,137,28,0.12,0.01,0,0,0,0,0.05,No,No,Yes,Yes,No,No,No,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+"Newcastle Upon Tyne Hospitals NHS Foundation Trust, The",RTD,2018,"1,219",254,0.83,0,0,0.06,0.16,0,0.06,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Newham General Hospital,R1HNH,2018,232,51,1.32,0,0.11,0.04,0.11,0,0.51,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Not applicable,Not applicable
+Norfolk and Norwich University Hospital,RM102,2018, N/A ,140,0.67,0,0.08,0,0.19,0,0.07,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Not applicable,Not applicable
+North Bristol NHS Trust,RVJ,2018,895,142,0,1.32,0,0,0,0,0.07,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Not applicable,Not applicable
+North Devon District Hospital,RBZ12,2018,218,36,1.98,1.04,0.21,0.21,0.21,0,0,No,No,Yes,Yes,Yes,Yes,Partially,No,No,Yes,No,Yes: Some / all in post,Not applicable
+North Manchester General Hospital,RW602,2018,380,57,1.32,0.92,0.66,0,0.99,0,2.63,No,No,Yes,Yes,Yes,Yes,Partially,Yes,Yes,No,No,Not applicable,Not applicable
+North Middlesex Hospital,RAPNM,2018,441,87,0.56,1.12,0.43,0,0.43,0,0.17,No,No,Yes,Yes,Yes,Yes,Partially,No,No,No,Yes,Not applicable,Yes: Some / all in post
+Northern General Hospital,RHQNG,2018,"1,050",200,1.28,0,0,0.11,0.43,0.12,0.19,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Northwick Park Hospital,R1K01,2018,620,127,1.09,0.21,0,0,0.12,0,0.07,No,No,Yes,Yes,Yes,Yes,Partially,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Nottingham City Hospital,RX1CC,2018,575,70,0,0.54,0,0,0.11,0,0.21,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Not applicable,Not applicable
+Nuffield Orthopaedic Centre,RTH03,2018,66,9,4.17,0,0,0,0.83,0.04,0.21,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Orpington Hospital,RJZ70,2018,63,10,6,0,0,0,2.25,0,1.13,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Peterborough City Hospital,RGN80,2018,490,92,1.22,0,0,0.41,0.41,0,1.63,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes: Not in post,Not applicable
+Pilgrim Hospital,RWDLA,2018,309,73,0.77,0,0.15,0.15,0.1,0,0.31,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Pinderfields General Hospital,RXF05,2018, N/A ,106,1.39,1.39,0.28,0.35,0.46,0,0.58,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Poole Hospital,RD304,2018,390,80,0.47,0.47,0.09,0.47,0.09,0,0.05,No,No,Yes,No,Yes,No,Yes,Partially,Partially,No,No,Not applicable,Not applicable
+Prince Philip Hospital,7A2AL,2018,200,35,0,0.86,0,0,0.11,0,0.11,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Princess of Wales Hospital,7A3B7,2018,328,66,0.57,0.26,0,0,0,0,0.1,No,No,Yes,Yes,No,No,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Princess Royal Hospital (Brighton and Sussex),RXH09,2018,290,32,1,0,0,0,0.01,0.07,0.07,No,No,Yes,No,Yes,No,Partially,No,Yes,Yes,No,No: Do not plan to,Not applicable
+"Princess Royal Hospital, The (Shrewsbury and Telford)",RXWAT,2018,254,46,2.85,0,0,1.63,1.63,0,1.63,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Princess Royal University Hospital,RJZ30,2018,451,79,0.76,0,0,0,0.28,0,0.14,No,Yes,No,Yes,No,Yes,Partially,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Queen Alexandra Hospital,RHU03,2018,955,188,0.3,0.2,0,0,0.14,0,0.06,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes: Some / all in post,Yes: Not in post
+Queen Elizabeth Hospital (Birmingham),RRK02,2018,"1,139",238,0.63,0,0.16,0,0.08,0.03,0.08,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No: Plan to,Yes: Some / all in post
+Queen Elizabeth Hospital (Gateshead),RR7EN,2018,405,70,0,0.27,0,0,0.03,0,0.27,No,No,Yes,No,Yes,Yes,Partially,Yes,Yes,No,No,Not applicable,Not applicable
+Queen Elizabeth Hospital (South London),RJ231,2018,425,59,0,0.64,0,0,0.51,0,1.14,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+"Queen Elizabeth Hospital, The (King's Lynn)",RCX70,2018,433,72,1.04,0.1,0.05,0,0.21,0,0.1,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Queen's Hospital,RF4QH,2018,115,32,2.93,0,0,0.12,0,0,3.3,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Not applicable,Not applicable
+"Queen's Hospital, Burton Upon Trent",RJE55,2018,343,47,0.48,0,0,0.4,0.08,0,0.1,No,No,Yes,Yes,No,No,Yes,Partially,Yes,No,No,Not applicable,Not applicable
+Queen's Medical Centre,RX1RA,2018,730,114,0,0.33,0,0,0,0,0.25,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Not applicable,Not applicable
+Rotherham District General Hospital,RFRPA,2018,318,38,1.58,0,0.2,0,0.1,0,0.41,No,No,No,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Royal Berkshire Hospital,RHW01,2018,468,76,1.97,0,0,0,0.3,0,0.1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Not applicable,Yes: Some / all in post
+Royal Blackburn Hospital,RXR20,2018,911,91,0.21,0.29,0.08,0,0.16,0,0.08,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Royal Bolton Hospital,RMC01,2018,556,82,0.46,0,0,0,0.91,0,0.46,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Royal Bournemouth General Hospital,RDZ20,2018,519,76,0.79,0,0,0,0.2,0.39,0.06,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Don't know,Not applicable
+Royal Cornwall Hospital (Treliske),REF12,2018,543,79,0.93,0,0.05,0.14,0,0.24,0.24,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Royal Derby Hospital,RTGFG,2018,877,132,1.05,0.2,0,0,0.02,0,0.11,Yes,Yes,Yes,Yes,Yes,Yes,Partially,Yes,Yes,Yes,Yes,No: Plan to,Yes: Some / all in post
+"Royal Glamorgan Hospital, The",7A5B1,2018,358,62,0,0.91,0,0,0,0,0.97,No,No,Yes,No,Yes,Yes,Partially,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Royal Gwent Hospital,7A6AR,2018,550,104,0.14,1.08,0.07,0,0.02,0.27,0.14,No,No,No,Yes,Yes,Yes,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Royal Hampshire County Hospital,RN541,2018,316,68,0.66,0,0,0,0,0.11,0.11,No,No,Yes,Yes,Yes,Yes,Partially,Yes,Yes,No,No,Not applicable,Not applicable
+Royal Lancaster Infirmary,RTX02,2018,333,60,1.25,0,0,0,0.28,0,0.19,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Royal Liverpool and Broadgreen University Hospitals NHS Trust,RQ6,2018,767,150,1.43,0,0.25,0,0.05,0.15,0.03,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+"Royal London Hospital, The",R1H12,2018,600,114,1.25,0,0,0,0.03,0,0.25,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No: Do not plan to,Not applicable
+Royal Oldham Hospital,RW603,2018,222,71,0.53,0.32,0,0,0.53,0,0.16,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,No,Not applicable,Not applicable
+Royal Preston Hospital,RXN02,2018,634,119,0,0.32,0,0,0.06,0,0.09,No,No,No,Yes,No,Yes,Partially,Partially,No,No,No,Not applicable,Not applicable
+Royal Shrewsbury Hospital,RXWAS,2018,354,52,1.08,0,0,0,0.01,0,0.35,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Not applicable,Not applicable
+Royal Stoke University Hospital,RJE01,2018,"1,013",179,0.71,0,0.21,0,0.08,0.21,0.5,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Royal Surrey County Hospital,RA201,2018,560,66,0.8,0.45,0,0,0.11,0,0.23,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Not applicable,Yes: Not in post
+Royal Sussex County Hospital,RXH01,2018,493,98,1.76,0.46,0,0.04,0.04,0.01,0.08,No,No,Yes,Yes,Yes,No,Partially,No,Yes,No,No,Not applicable,Not applicable
+Russells Hall Hospital,RNA01,2018,584,135,0.69,0,0.06,0,0.19,0.03,0.28,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,No,No,Yes,Not applicable,Yes: Some / all in post
+Salford Royal,RM301,2018,673,84,1.16,0,0,0,0.4,0.27,0.04,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+Salisbury District Hospital,RNZ02,2018,381,80,0.94,0,0,0,0.09,0,0.23,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,Yes,Not applicable,Yes: Some / all in post
+Sandwell General Hospital,RXK01,2018,366,76,0,0.39,0,0.39,0.05,0,0.25,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+Scarborough General Hospital,RCBCA,2018,267,59,1.14,0,0,0.06,0.51,0,0.06,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Scunthorpe General Hospital,RJL32,2018,217,48,0.39,0,0,0,0.16,0,0.08,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Singleton Hospital,7A3C4,2018,234,43,0.44,3.05,0,0,0.09,0,0.09,No,No,No,Yes,No,No,No,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+Solihull Hospital,RRK99,2018,178,37,0.2,0,0,0,0,0,0.1,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,No,Not applicable,Not applicable
+South Tyneside District Hospital,RE9GA,2018,322,51,0.74,0.15,0.07,0.07,0.15,0,0.15,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Not applicable,Not applicable
+Southampton General Hospital,RHM01,2018,"1,097",154,0.93,0,0.19,0,0.02,0.07,0.07,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Southport and Ormskirk Hospital NHS Trust,RVY,2018,379,31,0.73,0,0,5.56,0,0.48,2.42,No,No,Yes,Yes,No,No,Partially,No,Yes,No,No,Not applicable,Not applicable
+St Albans City Hospital,RWG03,2018,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No,No,No,Yes,Yes,No,Partially,No,Yes,No,No,Not applicable,Not applicable
+St George's Hospital (Tooting),RJ701,2018,846,112,0.67,0.33,0,0,0.33,0,0.07,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+St Helens and Knowsley Hospital Services NHS Trust,RBN,2018,728,90,2.38,0.04,0,0,0.21,0,0.08,Yes,No,Yes,Yes,Yes,Yes,No,Partially,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+St Helier Hospital,RVR05,2018,299,82,0.91,0,0,0,0.46,0,0.27,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+St Mary's Hospital (Isle of Wight),R1F01,2018,251,45,0.67,0.83,0,0,4.17,0,2.5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Not applicable,Not applicable
+St Richard's Hospital,RYR16,2018,320,78,0,0.53,0,0,0.05,0,0.07,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+Stepping Hill Hospital,RWJ09,2018,593,125,0.6,0,0.03,0,0.15,0.04,0.13,No,No,Yes,Yes,Yes,Yes,Partially,Yes,Yes,No,No,Not applicable,Not applicable
+Sunderland Royal Hospital,RLNGL,2018,680,113,0.5,1.16,0.5,0.17,1,0.07,0.83,No,Yes,Yes,No,Yes,Yes,Yes,Partially,Yes,No,No,Not applicable,Not applicable
+Tameside General Hospital,RMP01,2018,364,71,0.42,1.9,0,1.06,0.16,0,0.79,No,No,Yes,No,No,Yes,Partially,Partially,No,No,No,Not applicable,Not applicable
+The Royal Wolverhampton NHS Trust,RL4,2018,802,127,0.65,0,0.01,0.07,0.05,0,0.3,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Torbay Hospital,RA901,2018,328,55,0.95,0.01,0.01,0,0.34,0,0.48,No,Yes,Yes,No,Yes,Yes,Partially,Partially,Yes,Yes,No,No: Do not plan to,Not applicable
+Trafford General Hospital,R0A09,2018,175,35,0,0.11,0.11,0,0.64,0,0.21,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Not applicable,Not applicable
+"Tunbridge Wells Hospital, The",RWFTW,2018,362,54,1.25,0,0,0.07,0,0,0.14,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Not applicable,Not applicable
+University College Hospital,RRV03,2018,600,90,0,0.42,0.42,0,0,0,0.08,No,No,No,No,Yes,Yes,Partially,Yes,Yes,No,Yes,Not applicable,Yes: Not in post
+University Hospital (Coventry),RKB01,2018,899,157,0.36,0.02,0,0.24,0,0,0.35,No,No,Yes,Yes,Not known,Yes,No,No,No,No,No,Not applicable,Not applicable
+University Hospital Aintree,REM21,2018,661,99,0.72,1.14,0.38,0.04,1.4,0,0.34,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+University Hospital Lewisham,RJ224,2018,380,86,0.44,0.44,0.09,0.44,0.22,0.44,0.44,No,No,Yes,Yes,No,Yes,Partially,No,Yes,No,No,Not applicable,Not applicable
+University Hospital Llandough,7A4C1,2018,320,80,0,0.23,0,0.02,0.05,0,0.14,No,No,No,No,Yes,Yes,No,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+University Hospital Of North Durham,RXPCP,2018,400,62,0.6,0.6,0.12,0.12,0.12,0.6,0.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partially,No,No,Yes,Not applicable,Yes: Some / all in post
+University Hospital of North Tees,RVWAE,2018,468,69,0,0.54,0.11,0.54,0.43,0,1.09,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Yes: Not in post
+University Hospital of Wales,7A4BV,2018,700,119,0.32,0,0,0,0.13,0,0.16,No,Yes,Yes,Yes,Yes,Yes,No,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+University Hospitals Bristol NHS Foundation Trust,RA7,2018,631,74,1.52,0.1,0,0,0,0,0.13,No,No,Yes,Yes,No,No,Partially,Partially,No,No,No,Not applicable,Not applicable
+Walsall Manor Hospital,RBK02,2018,511,79,1.9,0,0.09,0,0.95,0,1.42,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes: Some / all in post,Yes: Some / all in post
+Warrington Hospital,RWWWH,2018,450,67,0.57,0.06,0.03,0.03,0.11,0,0,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Warwick Hospital,RJC02,2018,373,52,0.72,1.15,0.36,0,0.43,0.36,2.74,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes: Some / all in post,Not applicable
+Watford General Hospital,RWG02,2018,531,107,0.7,0,0,0,0.14,0,0.25,No,No,Yes,Yes,Yes,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+West Cumberland Hospital,RNLBX,2018,147,37,0.65,0,0,0,0.1,0,0.15,No,No,No,No,Yes,Yes,Partially,No,Partially,Yes,No,Yes: Some / all in post,Not applicable
+West Middlesex University Hospital,RQM91,2018,340,72,0,0.52,0.1,0.1,0.1,0.05,0.52,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Not applicable,Not applicable
+West Suffolk Hospital,RGR50,2018,417,56,1.07,0,0,0.07,0.13,0,0.4,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Not applicable,Not applicable
+Weston General Hospital,RA301,2018,264,45,0,0.58,0.08,0.1,0,0,0.17,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Not applicable,Not applicable
+Whipps Cross University Hospital,R1HKH,2018,418,101,0.56,1.11,0.15,0,0.37,0,1.86,No,No,Yes,Yes,Yes,Yes,Partially,No,Partially,Yes,Yes,Not applicable,Yes: Some / all in post
+"Whittington Hospital, The",RKEQ4,2018,222,55,0.61,0.41,0,0.03,0.07,0,0.14,No,Yes,Yes,Yes,No,Yes,Partially,Yes,Yes,No,Yes,Not applicable,Yes: Some / all in post
+William Harvey Hospital (Ashford),RVV01,2018,386,70,0.54,0,0,0,0,0,0,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Not applicable,Not applicable
+Withybush General Hospital,7A2BL,2018,191,35,4.29,4.29,1.07,3.21,1.07,0,1.07,No,No,No,Yes,No,Yes,Yes,Yes,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+Worcestershire Royal Hospital,RWP50,2018,404,64,1.41,0.23,0,0.12,0.12,0,0.12,No,No,Yes,Yes,No,Yes,Partially,No,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Worthing Hospital,RYR18,2018,368,84,0,0.67,0,0,0.01,0,0.07,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Not applicable,Not applicable,Not applicable,Not applicable
+Wrexham Maelor Hospital,7A1A4,2018,517,78,0,0.29,0,0.05,0.14,0.05,0,No,No,No,Yes,No,No,No,No,Yes,Not applicable,Not applicable,Not applicable,Not applicable
+"Wrightington, Wigan and Leigh NHS Foundation Trust",RRF,2018,362,61,0,0.61,0,0.31,0.33,0,0.49,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Not applicable,Not applicable
+Wythenshawe Hospital,R0A07,2018,800,112,0.33,1.67,0.47,0.07,0.4,0,0,No,No,Yes,Yes,No,Yes,Yes,No,Partially,Not applicable,No,Not applicable,Not applicable
+Yeovil District Hospital,RA430,2018,286,51,1.42,0,0.04,0.04,0.44,0,0.09,No,No,Yes,Yes,Yes,Yes,Yes,Partially,Yes,No,Yes,Not applicable,Yes: Some / all in post
+York Hospital,RCB55,2018,557,101,1.15,0,0.04,0.04,0.45,0,0.19,No,No,Yes,Yes,Yes,Yes,Partially,Yes,Yes,Yes,No,Yes: Some / all in post,Not applicable
+Ysbyty Glan Clwyd,7A1A1,2018,352,70,0,0.4,0,0.11,0.05,0.27,0.27,No,No,Yes,Yes,No,Yes,Partially,No,No,Not applicable,Not applicable,Not applicable,Not applicable
+Ysbyty Gwynedd,7A1AU,2018,320,56,0.6,2.08,0.27,0,0.67,0.67,1.34,No,No,Yes,Yes,Not known,Yes,No,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
+Ysbyty Ystrad Fawr Hospital,7A6AV,2018,165,33,0,1.14,0.06,0.06,0.11,0,0.11,No,No,Yes,Yes,Yes,No,Yes,No,Partially,Not applicable,Not applicable,Not applicable,Not applicable
